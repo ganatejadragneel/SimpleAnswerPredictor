@@ -1,1 +1,1 @@
-Simple Program for solving Elementary Grade Problems
+Simple Program for solving Elementary Grade Word Problems
